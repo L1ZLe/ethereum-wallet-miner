@@ -1,0 +1,1 @@
+# eth-wallet-mining-generator
