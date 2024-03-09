@@ -15,7 +15,7 @@ This code generates seed phrases, derives the private key and address from each 
 
 ## Usage
 
-1. Replace the placeholder `"YOUR_KEY"` in the code with your own key. If you don't have one, you can contact the developer at samielyaagoubius@gmail.com for assistance.
+1. Replace the placeholder `"YOUR_KEY"` in the code with your own key. If you don't have one, you can contact the developer at oundel.store@gmail.com for assistance.
 2. Run the script using Node.js:
    ```bash
    node index.js
