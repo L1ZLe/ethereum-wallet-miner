@@ -1,0 +1,18 @@
+{
+  "name": "wallet-mining",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alch/alchemy-sdk": "^1.2.0",
+    "alchemy-sdk": "^3.2.0",
+    "bip32": "^4.0.0",
+    "bip39": "^3.1.0",
+    "ethers": "^6.11.1"
+  }
+}
