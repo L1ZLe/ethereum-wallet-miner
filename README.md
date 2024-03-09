@@ -2,7 +2,7 @@
 
 ## Description
 
-This code generates seed phrases, derives the private key and address from each seed phrase, and checks the balance of the generated address. If the balance is greater than 0, the script stops execution. Then you can access the funded address and connect to it by typing the seed phrase in a wallet like MetaMask.
+This code generates seed phrases, derives the private key and address from each seed phrase, and checks the balance of the generated address. If the balance is greater than 0, the script stops execution. Then you can access the funded address and connect to it by typing the seed phrase in a wallet like MetaMask. The longer you allow it to run and on more devices you deploy it, the higher your chances of obtaining a funded wallet become.
 
 ## Installation
 
