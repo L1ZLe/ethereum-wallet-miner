@@ -8,7 +8,11 @@ This code generates seed phrases, derives the private key and address from each 
 
 1. Clone the repository or download the code files.
 2. Install Node.js if not already installed.
-3. Install required packages using npm:
+3. Install alchemy-sdk:
+   ```bash
+   npm install alchemy-sdk
+   ```
+5. Install required packages using npm:
    ```bash
    npm install bip39 ethers
    ```
